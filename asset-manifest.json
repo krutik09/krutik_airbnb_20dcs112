@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krutik_airbnb_20dcs112/static/css/main.a2cea707.css",
+    "main.js": "/krutik_airbnb_20dcs112/static/js/main.43893b60.js",
+    "static/js/787.858afd48.chunk.js": "/krutik_airbnb_20dcs112/static/js/787.858afd48.chunk.js",
+    "index.html": "/krutik_airbnb_20dcs112/index.html",
+    "main.a2cea707.css.map": "/krutik_airbnb_20dcs112/static/css/main.a2cea707.css.map",
+    "main.43893b60.js.map": "/krutik_airbnb_20dcs112/static/js/main.43893b60.js.map",
+    "787.858afd48.chunk.js.map": "/krutik_airbnb_20dcs112/static/js/787.858afd48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2cea707.css",
+    "static/js/main.43893b60.js"
+  ]
+}
