@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Airbnb_20dcs112/static/css/main.a2cea707.css",
-    "main.js": "/Airbnb_20dcs112/static/js/main.b05a84fd.js",
-    "static/js/787.858afd48.chunk.js": "/Airbnb_20dcs112/static/js/787.858afd48.chunk.js",
-    "index.html": "/Airbnb_20dcs112/index.html",
-    "main.a2cea707.css.map": "/Airbnb_20dcs112/static/css/main.a2cea707.css.map",
-    "main.b05a84fd.js.map": "/Airbnb_20dcs112/static/js/main.b05a84fd.js.map",
-    "787.858afd48.chunk.js.map": "/Airbnb_20dcs112/static/js/787.858afd48.chunk.js.map"
+    "main.css": "/krutikshah_AIRBNB_20dcs112/static/css/main.a2cea707.css",
+    "main.js": "/krutikshah_AIRBNB_20dcs112/static/js/main.a41c3434.js",
+    "static/js/787.858afd48.chunk.js": "/krutikshah_AIRBNB_20dcs112/static/js/787.858afd48.chunk.js",
+    "index.html": "/krutikshah_AIRBNB_20dcs112/index.html",
+    "main.a2cea707.css.map": "/krutikshah_AIRBNB_20dcs112/static/css/main.a2cea707.css.map",
+    "main.a41c3434.js.map": "/krutikshah_AIRBNB_20dcs112/static/js/main.a41c3434.js.map",
+    "787.858afd48.chunk.js.map": "/krutikshah_AIRBNB_20dcs112/static/js/787.858afd48.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2cea707.css",
-    "static/js/main.b05a84fd.js"
+    "static/js/main.a41c3434.js"
   ]
 }
